@@ -1,0 +1,12 @@
+21:37:15.676 [main] INFO  - this is a info message
+21:37:15.689 [main] WARN  - this is a warn message
+21:37:15.690 [main] ERROR - this is a error message
+21:37:15.691 [main] FATAL - this is a fatal message
+21:43:56.571 [main] INFO  - this is a info message
+21:43:56.587 [main] WARN  - this is a warn message
+21:43:56.588 [main] ERROR - this is a error message
+21:43:56.588 [main] FATAL - this is a fatal message
+22:04:58.338 [main] INFO  - this is a info message
+22:04:58.343 [main] WARN  - this is a warn message
+22:04:58.343 [main] ERROR - this is a error message
+22:04:58.343 [main] FATAL - this is a fatal message
